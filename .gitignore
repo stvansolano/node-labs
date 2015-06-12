@@ -4,4 +4,4 @@ README.md
 *.log
 node_modules
 client/vendor
-dist
+build
