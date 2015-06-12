@@ -1,0 +1,11 @@
+{
+  "name": "nodelab",
+  "version": "0.0.1",
+  "description": "NodeJS demo",
+  "main": "server.js",
+  "repository": "",
+  "author": "Esteban Solano G. <stvansolano@outlook.com>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
